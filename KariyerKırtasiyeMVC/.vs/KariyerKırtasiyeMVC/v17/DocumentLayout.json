@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB88305B-3F88-41B0-B4EC-0E7B55989D47}|KariyerK\u0131rtasiye.MvcWebUi\\KariyerK\u0131rtasiye.MvcWebUi.csproj|c:\\users\\sahin\\source\\repos\\kariyerk\u0131rtasiyemvc\\kariyerk\u0131rtasiye.mvcwebui\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB88305B-3F88-41B0-B4EC-0E7B55989D47}|KariyerK\u0131rtasiye.MvcWebUi\\KariyerK\u0131rtasiye.MvcWebUi.csproj|solutionrelative:kariyerk\u0131rtasiye.mvcwebui\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB88305B-3F88-41B0-B4EC-0E7B55989D47}|KariyerK\u0131rtasiye.MvcWebUi\\KariyerK\u0131rtasiye.MvcWebUi.csproj|C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\kariyerk\u0131rtasiye.mvcwebui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB88305B-3F88-41B0-B4EC-0E7B55989D47}|KariyerK\u0131rtasiye.MvcWebUi\\KariyerK\u0131rtasiye.MvcWebUi.csproj|solutionrelative:kariyerk\u0131rtasiye.mvcwebui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB88305B-3F88-41B0-B4EC-0E7B55989D47}|KariyerK\u0131rtasiye.MvcWebUi\\KariyerK\u0131rtasiye.MvcWebUi.csproj|C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\kariyerk\u0131rtasiye.mvcwebui\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB88305B-3F88-41B0-B4EC-0E7B55989D47}|KariyerK\u0131rtasiye.MvcWebUi\\KariyerK\u0131rtasiye.MvcWebUi.csproj|solutionrelative:kariyerk\u0131rtasiye.mvcwebui\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB88305B-3F88-41B0-B4EC-0E7B55989D47}|KariyerK\u0131rtasiye.MvcWebUi\\KariyerK\u0131rtasiye.MvcWebUi.csproj|C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\kariyerk\u0131rtasiye.mvcwebui\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB88305B-3F88-41B0-B4EC-0E7B55989D47}|KariyerK\u0131rtasiye.MvcWebUi\\KariyerK\u0131rtasiye.MvcWebUi.csproj|solutionrelative:kariyerk\u0131rtasiye.mvcwebui\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB88305B-3F88-41B0-B4EC-0E7B55989D47}|KariyerK\u0131rtasiye.MvcWebUi\\KariyerK\u0131rtasiye.MvcWebUi.csproj|C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\kariyerk\u0131rtasiye.mvcwebui\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB88305B-3F88-41B0-B4EC-0E7B55989D47}|KariyerK\u0131rtasiye.MvcWebUi\\KariyerK\u0131rtasiye.MvcWebUi.csproj|solutionrelative:kariyerk\u0131rtasiye.mvcwebui\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB88305B-3F88-41B0-B4EC-0E7B55989D47}|KariyerK\u0131rtasiye.MvcWebUi\\KariyerK\u0131rtasiye.MvcWebUi.csproj|C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\kariyerk\u0131rtasiye.mvcwebui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB88305B-3F88-41B0-B4EC-0E7B55989D47}|KariyerK\u0131rtasiye.MvcWebUi\\KariyerK\u0131rtasiye.MvcWebUi.csproj|solutionrelative:kariyerk\u0131rtasiye.mvcwebui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB88305B-3F88-41B0-B4EC-0E7B55989D47}|KariyerK\u0131rtasiye.MvcWebUi\\KariyerK\u0131rtasiye.MvcWebUi.csproj|C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\kariyerk\u0131rtasiye.mvcwebui\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB88305B-3F88-41B0-B4EC-0E7B55989D47}|KariyerK\u0131rtasiye.MvcWebUi\\KariyerK\u0131rtasiye.MvcWebUi.csproj|solutionrelative:kariyerk\u0131rtasiye.mvcwebui\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB88305B-3F88-41B0-B4EC-0E7B55989D47}|KariyerK\u0131rtasiye.MvcWebUi\\KariyerK\u0131rtasiye.MvcWebUi.csproj|C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\kariyerk\u0131rtasiye.mvcwebui\\views\\shared\\_productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB88305B-3F88-41B0-B4EC-0E7B55989D47}|KariyerK\u0131rtasiye.MvcWebUi\\KariyerK\u0131rtasiye.MvcWebUi.csproj|solutionrelative:kariyerk\u0131rtasiye.mvcwebui\\views\\shared\\_productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB88305B-3F88-41B0-B4EC-0E7B55989D47}|KariyerK\u0131rtasiye.MvcWebUi\\KariyerK\u0131rtasiye.MvcWebUi.csproj|C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\kariyerk\u0131rtasiye.mvcwebui\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB88305B-3F88-41B0-B4EC-0E7B55989D47}|KariyerK\u0131rtasiye.MvcWebUi\\KariyerK\u0131rtasiye.MvcWebUi.csproj|solutionrelative:kariyerk\u0131rtasiye.mvcwebui\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB88305B-3F88-41B0-B4EC-0E7B55989D47}|KariyerK\u0131rtasiye.MvcWebUi\\KariyerK\u0131rtasiye.MvcWebUi.csproj|C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\kariyerk\u0131rtasiye.mvcwebui\\entity\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB88305B-3F88-41B0-B4EC-0E7B55989D47}|KariyerK\u0131rtasiye.MvcWebUi\\KariyerK\u0131rtasiye.MvcWebUi.csproj|solutionrelative:kariyerk\u0131rtasiye.mvcwebui\\entity\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB88305B-3F88-41B0-B4EC-0E7B55989D47}|KariyerK\u0131rtasiye.MvcWebUi\\KariyerK\u0131rtasiye.MvcWebUi.csproj|C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\kariyerk\u0131rtasiye.mvcwebui\\entity\\datainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB88305B-3F88-41B0-B4EC-0E7B55989D47}|KariyerK\u0131rtasiye.MvcWebUi\\KariyerK\u0131rtasiye.MvcWebUi.csproj|solutionrelative:kariyerk\u0131rtasiye.mvcwebui\\entity\\datainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB88305B-3F88-41B0-B4EC-0E7B55989D47}|KariyerK\u0131rtasiye.MvcWebUi\\KariyerK\u0131rtasiye.MvcWebUi.csproj|C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\kariyerk\u0131rtasiye.mvcwebui\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB88305B-3F88-41B0-B4EC-0E7B55989D47}|KariyerK\u0131rtasiye.MvcWebUi\\KariyerK\u0131rtasiye.MvcWebUi.csproj|solutionrelative:kariyerk\u0131rtasiye.mvcwebui\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB88305B-3F88-41B0-B4EC-0E7B55989D47}|KariyerK\u0131rtasiye.MvcWebUi\\KariyerK\u0131rtasiye.MvcWebUi.csproj|C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\kariyerk\u0131rtasiye.mvcwebui\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB88305B-3F88-41B0-B4EC-0E7B55989D47}|KariyerK\u0131rtasiye.MvcWebUi\\KariyerK\u0131rtasiye.MvcWebUi.csproj|solutionrelative:kariyerk\u0131rtasiye.mvcwebui\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB88305B-3F88-41B0-B4EC-0E7B55989D47}|KariyerK\u0131rtasiye.MvcWebUi\\KariyerK\u0131rtasiye.MvcWebUi.csproj|C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\kariyerk\u0131rtasiye.mvcwebui\\identity\\identityinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB88305B-3F88-41B0-B4EC-0E7B55989D47}|KariyerK\u0131rtasiye.MvcWebUi\\KariyerK\u0131rtasiye.MvcWebUi.csproj|solutionrelative:kariyerk\u0131rtasiye.mvcwebui\\identity\\identityinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 268,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\KariyerK\u0131rtasiye.MvcWebUi\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "KariyerK\u0131rtasiye.MvcWebUi\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\KariyerK\u0131rtasiye.MvcWebUi\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "KariyerK\u0131rtasiye.MvcWebUi\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T06:52:45.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\KariyerK\u0131rtasiye.MvcWebUi\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "KariyerK\u0131rtasiye.MvcWebUi\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\KariyerK\u0131rtasiye.MvcWebUi\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "KariyerK\u0131rtasiye.MvcWebUi\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T06:51:13.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\KariyerK\u0131rtasiye.MvcWebUi\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "KariyerK\u0131rtasiye.MvcWebUi\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\KariyerK\u0131rtasiye.MvcWebUi\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "KariyerK\u0131rtasiye.MvcWebUi\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T06:34:08.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\KariyerK\u0131rtasiye.MvcWebUi\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "KariyerK\u0131rtasiye.MvcWebUi\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\KariyerK\u0131rtasiye.MvcWebUi\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "KariyerK\u0131rtasiye.MvcWebUi\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T07:21:24.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\KariyerK\u0131rtasiye.MvcWebUi\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "KariyerK\u0131rtasiye.MvcWebUi\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\KariyerK\u0131rtasiye.MvcWebUi\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "KariyerK\u0131rtasiye.MvcWebUi\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T06:21:04.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\KariyerK\u0131rtasiye.MvcWebUi\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "KariyerK\u0131rtasiye.MvcWebUi\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\KariyerK\u0131rtasiye.MvcWebUi\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "KariyerK\u0131rtasiye.MvcWebUi\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T06:33:55.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\KariyerK\u0131rtasiye.MvcWebUi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KariyerK\u0131rtasiye.MvcWebUi\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\KariyerK\u0131rtasiye.MvcWebUi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KariyerK\u0131rtasiye.MvcWebUi\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T06:21:51.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ProductList.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\KariyerK\u0131rtasiye.MvcWebUi\\Views\\Shared\\_ProductList.cshtml",
+              "RelativeDocumentMoniker": "KariyerK\u0131rtasiye.MvcWebUi\\Views\\Shared\\_ProductList.cshtml",
+              "ToolTip": "C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\KariyerK\u0131rtasiye.MvcWebUi\\Views\\Shared\\_ProductList.cshtml",
+              "RelativeToolTip": "KariyerK\u0131rtasiye.MvcWebUi\\Views\\Shared\\_ProductList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T06:27:26.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\KariyerK\u0131rtasiye.MvcWebUi\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "KariyerK\u0131rtasiye.MvcWebUi\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\KariyerK\u0131rtasiye.MvcWebUi\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "KariyerK\u0131rtasiye.MvcWebUi\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T06:33:53.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\KariyerK\u0131rtasiye.MvcWebUi\\Entity\\DataContext.cs",
+              "RelativeDocumentMoniker": "KariyerK\u0131rtasiye.MvcWebUi\\Entity\\DataContext.cs",
+              "ToolTip": "C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\KariyerK\u0131rtasiye.MvcWebUi\\Entity\\DataContext.cs",
+              "RelativeToolTip": "KariyerK\u0131rtasiye.MvcWebUi\\Entity\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T06:28:27.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\KariyerK\u0131rtasiye.MvcWebUi\\Entity\\DataInitializer.cs",
+              "RelativeDocumentMoniker": "KariyerK\u0131rtasiye.MvcWebUi\\Entity\\DataInitializer.cs",
+              "ToolTip": "C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\KariyerK\u0131rtasiye.MvcWebUi\\Entity\\DataInitializer.cs",
+              "RelativeToolTip": "KariyerK\u0131rtasiye.MvcWebUi\\Entity\\DataInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T06:28:25.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\KariyerK\u0131rtasiye.MvcWebUi\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "KariyerK\u0131rtasiye.MvcWebUi\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\KariyerK\u0131rtasiye.MvcWebUi\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "KariyerK\u0131rtasiye.MvcWebUi\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T06:27:10.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\KariyerK\u0131rtasiye.MvcWebUi\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "KariyerK\u0131rtasiye.MvcWebUi\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\KariyerK\u0131rtasiye.MvcWebUi\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "KariyerK\u0131rtasiye.MvcWebUi\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T06:27:03.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IdentityInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\KariyerK\u0131rtasiye.MvcWebUi\\Identity\\IdentityInitializer.cs",
+              "RelativeDocumentMoniker": "KariyerK\u0131rtasiye.MvcWebUi\\Identity\\IdentityInitializer.cs",
+              "ToolTip": "C:\\Users\\sahin\\source\\repos\\KariyerK\u0131rtasiyeMVC\\KariyerK\u0131rtasiye.MvcWebUi\\Identity\\IdentityInitializer.cs",
+              "RelativeToolTip": "KariyerK\u0131rtasiye.MvcWebUi\\Identity\\IdentityInitializer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T06:19:04.956Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

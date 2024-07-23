@@ -1,0 +1,65 @@
+﻿
+@model IEnumerable<KariyerKırtasiye.MvcWebUi.Entity.Category>
+    @{ 
+        var selectedCategory = Url.RequestContext.RouteData.Values["id"];
+    }
+
+<section class="pt-3 slider">
+
+    <li class="list-group-item">
+        <a href="/Home/List">
+            <i class="fa fa-angle-double-right" aria-hidden="true"></i>
+            Tüm kategoriler
+        </a>
+
+    </li>
+
+    @foreach (var item in Model)
+    {
+        if (selectedCategory != null)
+        {
+            if (item.Id == int.Parse(selectedCategory.ToString()))
+            {
+                <div class="container">
+
+                    <a href="#" class="nav-link "></a>
+                    <a href="/Home/List/@item.Id">
+                        <i class="fa fa-angle-double-right" aria-hidden="true"></i>
+                        @item.Name
+                    </a>
+                </div>
+            }
+            else
+            {
+                <div class="container">
+
+                    <a href="#" class="nav-link "></a>
+                    <a href="/Home/List/@item.Id">
+                        <i class="fa fa-angle-double-right" aria-hidden="true"></i>
+                        @item.Name
+                    </a>
+                </div>
+
+            }
+
+
+        }
+        else
+        {
+            <div class="container">
+
+                <a href="#" class="nav-link "></a>
+                <a href="/Home/List/@item.Id">
+                    <i class="fa fa-angle-double-right" aria-hidden="true"></i>
+                    @item.Name
+                </a>
+            </div>
+
+        }
+
+
+    }
+    
+</section>
+
+

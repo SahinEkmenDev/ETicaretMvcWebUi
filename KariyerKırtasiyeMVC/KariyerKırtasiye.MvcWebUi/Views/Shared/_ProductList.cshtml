@@ -1,0 +1,36 @@
+﻿@using KariyerKırtasiye.MvcWebUi.Models;
+
+@model  IEnumerable<ProductModel>
+
+    @foreach (var urun in Model)
+    { 
+
+        <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
+            <h2></h2>
+            <!-- mb-4 ile alt alta gelen kartlar arasına boşluk eklenmiş -->
+            <figure class="card shadow">
+                <a href="#" class="img-wrap">
+                    <b class="badge bg-success">İndirim</b>
+                    <img src="~/Upload/@urun.Image" alt="@urun.Name" />
+                </a>
+                <figcaption class="info-wrap border-top">
+                    <a href="/Home/Details/@urun.Id" class="btn btn-primary btn-sm float-right" style="float: right;">
+                        <i class="fa fa-angle-double-right " aria-hidden="true"></i>
+                        Ürünü İncele
+                    </a>
+                    <a href="/Home/Details/@urun.Id" class="title text-truncate">@urun.Name</a>
+                    <div class="price-wrap">
+                        <span class="price">
+                            @urun.Price
+                            <i class="fa fa-try" aria-hidden="true"></i>
+
+                        </span>
+
+                       
+                    </div>
+
+                </figcaption>
+            </figure>
+        </div>
+    }
+
